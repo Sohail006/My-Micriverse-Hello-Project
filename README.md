@@ -1,15 +1,14 @@
+# My-Portfolio
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello word project
 
-> Description the project.
+> My hello word project
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML, CSS
 
 ## Live Demo (if available)
 
@@ -40,16 +39,10 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Sohail006**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- GitHub: [@Sohail006](https://github.com/Sohail006)
+- Twitter: [@twitterhandle](https://www.linkedin.com/in/sohail-anjum-547b6bab)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
@@ -71,3 +64,4 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
